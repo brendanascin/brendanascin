@@ -11,4 +11,4 @@ Eu também estou cursando Língua estrangeira (inglês) na Wizard by, estou no n
  <h4>Hobbies: 
 Sou atleta, jogo handebol no time da minha cidade. 
 Adoro jogar jogos de tabuleiro. 
-Amo ler livros de romance amo dar
+Amo ler livros de romance
