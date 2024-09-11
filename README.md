@@ -15,7 +15,7 @@ Amo ler livros de romance
 Sou apaixonada na arte de manicure
 
 <h2>Objetivos: </h2>
-<br>Meu maior sonho é ingressar na faculdade, e a instituição que mais desejo frequentar é a Universidade Presbiteriana Mackenzie, onde também quer me formar em Ciências de Dados. Atualmente, tenho cinco faculdades na minha lista de opções, mas o Mackenzie é a minha principal.
+<br>Meu maior sonho é ingressar na faculdade, e a instituição que mais desejo frequentar é a Universidade Presbiteriana Mackenzie, onde também quero me formar em Ciências de Dados. Atualmente, tenho cinco faculdades na minha lista de opções, mas o Mackenzie é a minha principal.
 
 <h2>Motivação</h2>
 <br>Minha família é minha principal motivação. Meus pais sempre me deram conselhos valiosos e ambos cursaram a faculdade. Eles trabalharam arduamente para superar desafios, evitar dificuldades e alcançar seus objetivos. Com seus exemplos e ensinamentos, aprendi a ser uma pessoa grata por tudo que tenho. 
